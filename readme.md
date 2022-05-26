@@ -1,0 +1,1 @@
+For this recursive fibonnaci function the base case is n<=1 which returns the value(0 or 1) and the recursive case returns the sum of n-1 and n-2 which defines the fibonnaci sequence. 
